@@ -1,0 +1,29 @@
+
+
+tabela {
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding-bottom: 40px;
+}
+
+tabela h2 {
+    font-size: 2em;
+    margin: 40px 0px;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(189, 43, 43);
+    margin: 20px;
+}
+tabela p {
+    font-size: 1.2em;
+    background-color: bisque;
+}
+
+li {
+    margin: 0px 20px;
+}
+
